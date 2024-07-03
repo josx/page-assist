@@ -6,6 +6,6 @@
     "message": "ローカルで実行中のAIモデルを使って、Webブラウジングをアシストします。"
   },
   "openSidePanelToChat": {
-    "message": "チャットするためにCopilotを開く"
+    "message": "チャットするためにPage Assistを開く"
   }
 }
